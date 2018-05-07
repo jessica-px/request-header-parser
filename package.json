@@ -1,0 +1,11 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/jessypeck/request-header-parser.git",
+  "author": "Jessica <jessypeck@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
